@@ -1,0 +1,12 @@
+name: itk
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - itk
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-image
+  - scipy
